@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Sahil Shukla  
 
 🎓 **B.Tech CSE Student at IIIT Ranchi (2022–2026)**  
-🚀 **Machine Learning | Generative AI | Agentic AI | Deep Learning | NLP | Computer Vision**  
+🚀 **Machine Learning |Artificial Intelligence| Generative AI | Agentic AI | Deep Learning | NLP | Computer Vision**  
 💡 I love transforming ideas into **intelligent, production-ready AI applications** that create real-world impact.  
 
 ---
